@@ -1,0 +1,81 @@
+.body{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table{
+    border-collapse: collapse;
+}
+
+
+.photo{
+    text-align: center;
+}
+
+table tr td{
+    line-height: 4px;
+    height: 1px;
+    border-radius: 10px;
+}
+td{
+    font-size: 0.9vw;
+    
+}
+table
+{
+    height: 15px;
+    width: 90px;
+}
+
+.haut
+{
+    text-align: center;
+}
+
+.vide
+{
+    border: none;
+}
+
+.H,.N,.C,.P,.O,.S,.Se
+{
+    background-color: rgb(191, 146, 233);
+}
+
+
+.Li,.Na,.K,.Rb,.Cs,.Fr{
+    background-color: cadetblue;
+}
+
+.Be,.Mg,.Ca,.Sr,.Ba,.Ra{
+    background-color: rgb(149, 237, 240);
+}
+
+.Sc,.Y,.Lu,.Lr,.Ti,.Zr,.Hf,.Rf,.V,.Nb,.Ta,.Db,.Cr,.Mo,.W,.Sg,.Mn,.Tc,.Re,.Bh,.Fe,.Ru,.Os,.Hs,.Co,.Rh,.Ir,.Mt,.Ni,.Pd,.Pt,.Ds,.Cu,.Ag,.Au,.Rg,.Zn,.Cd,.Hg,.Cn{
+    background-color: rgba(236, 168, 174, 0.918);
+}
+
+.B,.Si,.Ge,.As,.Sb,.Te,.Po{
+    background-color: rgb(221, 247, 162);
+}
+
+.Al,.Ga,.In,.TI,.Nh,.Sn,.Pb,.FI,.Bi,.Mc,.Lv{
+    background-color: rgb(250, 226, 181);
+}
+
+.F,.CI,.Br,.I,.At,.Ts{
+    background-color: lightgoldenrodyellow;
+}
+
+.He,.Ne,.Ar,.Kr,.Xe,.Rn,.Og{
+    background-color: rgb(120, 158, 228);
+}
+
+.La,.Ce,.Pr,.Nd,.Pm,.Sm,.Eu,.Gd,.Tb,.Dy,.Ho,.Er,.Tm,.Yb{
+    background-color: rgba(197, 113, 120, 0.918);
+}
+
+.Ac,.Th,.Pa,.U,.Np,.Pu,.Am,.Cm,.Bk,.Cf,.Es,.Fm,.Md,.No{
+    background-color: #a04e82;
+}
+
